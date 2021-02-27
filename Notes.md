@@ -9,3 +9,5 @@ sometimes an unknown person visits her and that disturbs the oglers
 
 പേര് : 
 വയസ്സ്: 32/33
+ജോലി: ഒരു റിസോര്‍ട്ടിലെ മാനേജര്‍.
+
