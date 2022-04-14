@@ -150,3 +150,20 @@
 [Sat Nov 06 12:05:36 UTC 2021][INFO] [Action] E DeleteContent - (r,25877,26082),B
 [Sat Nov 06 12:05:53 UTC 2021][INFO] [Action] E SaveBook - Save
 [Sat Nov 06 12:05:53 UTC 2021][INFO] Logger Terminated
+[Sat Nov 06 14:49:37 UTC 2021][INFO] [Action] EE OpenBook
+[Sat Nov 06 14:49:41 UTC 2021][INFO] [Action] E SaveBook - Save
+[Sat Nov 06 14:53:07 UTC 2021][INFO] [Action] EE PackageWorkspace
+[Sat Nov 06 14:53:12 UTC 2021][INFO] [Action] E SaveBook - Save
+[Sat Nov 06 14:53:17 UTC 2021][INFO] [Action] EE PackageWorkspace
+[Sat Nov 06 14:53:17 UTC 2021][INFO] [Action] EFail PackageWorkspace - 5
+[Sat Nov 06 14:53:21 UTC 2021][INFO] [Action] E SaveBook - SaveAs
+[Sat Nov 06 14:53:25 UTC 2021][INFO] [Action] EFail SaveBook - 4
+[Sat Nov 06 14:54:33 UTC 2021][INFO] [Action] E ItemChanged - -1,1
+[Sat Nov 06 14:54:35 UTC 2021][INFO] [Action] E ItemChanged - -1,62
+[Sat Nov 06 14:54:49 UTC 2021][INFO] [Action] E Copy - (r,62,657)
+[Sat Nov 06 14:56:37 UTC 2021][INFO] [Action] E SaveBook - Save
+[Sat Nov 06 15:02:11 UTC 2021][INFO] [Action] E SaveBook - Save
+[Sat Nov 06 15:02:16 UTC 2021][INFO] [Action] E SaveBook - Save
+[Sat Nov 06 15:02:16 UTC 2021][INFO] Logger Terminated
+[Sat Nov 06 22:52:54 UTC 2021][INFO] [Action] EE OpenBook - Kanavirambangal_book_size_KC.kcb
+[Sat Nov 06 22:53:00 UTC 2021][INFO] Logger Terminated
